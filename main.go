@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("vim-go")
+	fmt.Println("Advent of Code 2022 in Go!")
 }
